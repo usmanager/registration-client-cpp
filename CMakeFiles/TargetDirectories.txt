@@ -1,0 +1,4 @@
+/home/daniel/master-thesis/usmanager/manager/registration-client-cpp/CMakeFiles/rebuild_cache.dir
+/home/daniel/master-thesis/usmanager/manager/registration-client-cpp/CMakeFiles/registration-client-cpp-shared.dir
+/home/daniel/master-thesis/usmanager/manager/registration-client-cpp/CMakeFiles/edit_cache.dir
+/home/daniel/master-thesis/usmanager/manager/registration-client-cpp/CMakeFiles/registration-client-cpp-static.dir

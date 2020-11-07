@@ -1,0 +1,9 @@
+cmake*
+CMake*
+!CMakeLists.txt
+lib
+.dockerignore
+.gitignore
+README.md
+git*
+*.iml

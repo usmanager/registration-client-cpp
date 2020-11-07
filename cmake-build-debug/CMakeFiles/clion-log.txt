@@ -1,0 +1,5 @@
+/home/daniel/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/daniel/master-thesis/usmanager/manager/registration-client-cpp
+A Debug build configuration is detected
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/daniel/master-thesis/usmanager/manager/registration-client-cpp
